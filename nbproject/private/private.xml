@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/meick/Documentos/GitHub/ProjetoPropina/src/telas/Login.java</file>
-            <file>file:/home/meick/Documentos/GitHub/ProjetoPropina/src/telas/NovoCurso.java</file>
-            <file>file:/home/meick/Documentos/GitHub/ProjetoPropina/src/telas/NovoAluno.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/beans/Aluno.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/dao/CursoDAO.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/dao/AlunoDAO.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/beans/Curso.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/beans/Pessoa.java</file>
+            <file>file:/home/meick/Documentos/ProjetoPropina/src/telas/Login.java</file>
         </group>
     </open-files>
 </project-private>
